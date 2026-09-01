@@ -17,6 +17,9 @@ A real-time PC performance monitoring and analytics dashboard built with Python,
 - Automatic dashboard refresh
 - SQLite-based data storage
 
+##  Dashboard
+<img width="1775" height="796" alt="image" src="https://github.com/user-attachments/assets/2698ba34-06b6-4255-9e69-edea6d0ea23f" />
+
 ##  Technologies Used
 
 - Python
