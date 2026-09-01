@@ -20,6 +20,13 @@ A real-time PC performance monitoring and analytics dashboard built with Python,
 ##  Dashboard
 <img width="1775" height="796" alt="image" src="https://github.com/user-attachments/assets/2698ba34-06b6-4255-9e69-edea6d0ea23f" />
 
+##  PC Health Score
+<img width="1871" height="452" alt="image" src="https://github.com/user-attachments/assets/3eae0a3e-d001-4f08-b763-606312bdadd7" />
+
+##  Process Intelligence
+<img width="1883" height="820" alt="image" src="https://github.com/user-attachments/assets/4b6086f7-bf75-42dd-a6e7-5aa72842e9fa" />
+
+
 ##  Technologies Used
 
 - Python
